@@ -1,1 +1,1 @@
-👋 Hey, I’m Shreyan! A computer vision researcher by trade but I also dabble in signal processing, data science, natural language processing and just plain Jane coding. Currently working on coregistration algorithms for remote sensing. 
+👋 Hey, I’m Shreyan! A computer vision researcher by trade but I also like to mess around with signal processing, data science and natural language processing. Currently working on remote sensing stuff.
