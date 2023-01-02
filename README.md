@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋, I'm Shreyan</h1>
-<h3 align="center">A signal processing researcher.</h3>
+<h3 align="center">Image processing researcher.</h3>
 
 Hey there! I'm a researcher with a focus on signal, image, and video processing. I also dabble in computer vision, data science and natural language processing. If you're into that sort of thing, you're in the right place! Check out my [website](https://sites.google.com/view/shreyansanyal/home) to learn more about my work and research interests.
 
