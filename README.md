@@ -10,7 +10,6 @@ https://img.shields.io/github/followers/{username}.svg?style=social&label=Follow
 ## Contact/
 If you want to chat about all things signal processing (or just want to say hi), feel free to reach out to me via [shreyan.sanyal@azistaindustries.com]. I'm always up for a good conversation or on [LinkedIn](https://www.linkedin.com/in/shreyansanyal/)
 
-p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pneycho&show_icons=true&locale=en&layout=compact&theme=blue-green
-" alt="pneycho" /></p>
+p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pneycho&theme=blue-green" alt="pneycho" /></p>
 
 
