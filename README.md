@@ -1,6 +1,6 @@
 <h2 align="center">Hi 👋, I'm Shreyan.</h1>
 
-I mostly dabble in signal, image and video processing (Quality Assessment), computer vision, data science, natural language processing, art and anatomy. 
+I mostly dabble in signal, image and video processing (quality assessment), computer vision, data science, natural language processing, art and anatomy. 
 Primarily working on satellite data processing right now. 
 
 ## Current Work
