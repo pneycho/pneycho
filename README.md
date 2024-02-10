@@ -1,11 +1,11 @@
 <h2 align="center">Hi 👋, I'm Shreyan.</h2>
 
 I mostly dabble in signal, image and video processing (quality assessment), computer vision, data science, natural language processing, art and anatomy. 
-Currently working on satellite data products in both the geometry and radiometry aspects. 
+Currently working on satellite data products (i.e, raw binary transmitted data to proper multi-band images with metadata) in both the geometry and radiometry aspects of it.
 
-## Current Work
-As a personal project, I am trying to build a image-processing tool with GIS support. Somewhere between Photoshop and QGIS, but with a better UI. ImagePy is close, but its focused on bio-image analysis, so...
+## Current Projects
+As a personal project, I am trying to build a image-processing tool with GIS support. Somewhere between Photoshop and QGIS, but with a better UI. ImageJ and  ImagePy are close, but their main focus is on bio-image analysis, so...
 
 ## Contact
-I do check [LinkedIn](https://www.linkedin.com/in/shreyansanyal/) messages.
+I check [LinkedIn](https://www.linkedin.com/in/shreyansanyal/) messages pretty frequently.
 
